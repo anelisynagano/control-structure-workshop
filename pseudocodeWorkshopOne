@@ -1,0 +1,15 @@
+3       *      3      =     9
+times         number       total 
+
+0 + 3 = 3
+3 + 3 = 6  1st loop
+6 + 3 = 9  2nd loop
+
+-----------------------
+
+5 * 2 = 10
+
+2 + 2 = 4 1st loop
+4 + 2 = 6 2nd loop
+6 + 2 = 8 3rd loop
+8 + 2 = 10 4th loop

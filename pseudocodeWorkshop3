@@ -1,0 +1,1 @@
+Write a program that reads three parameters: an integer, a character representing an operation (+,-,x or /) and a second integer, then performs the calculation thus indicated and displays the result. (Be careful to avoid divisions by 0) (switch)
